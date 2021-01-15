@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^6.2.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "standard": {
+    "globals": [ "context", "it", "cy" ]
+  }
+}
